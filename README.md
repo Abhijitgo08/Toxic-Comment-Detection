@@ -3,19 +3,20 @@ A real-time system to detect toxic comments using a Node.js backend and a Flask 
 The model classifies comments into six categories:
 
 toxic
-severe_toxic
-obscene
-threat
-insult
-identity_hate
-Features
+severe_toxic, 
+obscene, 
+threat, 
+insult, 
+identity_hate.
+
+Features :
 
 User submits a comment
-
 Flask model predicts multiple labels
 Node.js backend forwards requests and returns results
 
-Tech Stack
+Tech Stack :
+
 Node.js / Express
 Python / Flask
 TensorFlow / Keras
