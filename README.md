@@ -17,7 +17,7 @@ Node.js backend forwards requests and returns results
 
 Tech Stack :
 
-Node.js / Express
-Python / Flask
-TensorFlow / Keras
-Pandas
+Node.js , 
+Python / Flask ,
+TensorFlow / Keras ,
+Pandas.
