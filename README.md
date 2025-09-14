@@ -12,8 +12,11 @@ identity_hate.
 Features :
 
 User submits a comment
+
 Flask model predicts multiple labels
+
 Node.js backend forwards requests and returns results
+
 
 Tech Stack :
 
